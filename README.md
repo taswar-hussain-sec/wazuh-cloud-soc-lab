@@ -1,13 +1,16 @@
 <p align="center">
   <img src="https://wazuh.com/uploads/2021/02/wazuh-logo-blue.png" alt="Wazuh Logo" width="400"/>
 </p>
-# ☁️🛡️ Cloud-Based SIEM & XDR Deployment: Wazuh Home Lab
+
+# ☁️🛡️ Cloud-Based SIEM & XDR Deployment: Wazuh Home Lab 
+
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Linode](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
 
 ## 🎯 Objective
+
 The primary objective of this lab was to architect and deploy a centralized Security Information and Event Management (SIEM) and Extended Detection and Response (XDR) platform in the cloud. As a Cybersecurity & Red Team Enthusiast, I built this environment to simulate real-world enterprise defenses, specifically focusing on monitoring red team operations, analyzing file integrity, and mapping active offensive threats to the MITRE ATT&CK framework.
 
 ## 🏗️ Architecture & Infrastructure
