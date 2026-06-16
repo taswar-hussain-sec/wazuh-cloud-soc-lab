@@ -1,4 +1,4 @@
-<img width="354" height="142" justify-content="center" alt="Wazuh_logo" src="https://github.com/user-attachments/assets/8ec71d49-8512-47d7-bbc9-6bb2e700b944" />
+<img width="354" height="142" justify-content=" center" align-items=" center" alt="Wazuh_logo" src="https://github.com/user-attachments/assets/8ec71d49-8512-47d7-bbc9-6bb2e700b944" />
 
 
 # ☁️🛡️ Cloud-Based SIEM & XDR Deployment: Wazuh Home Lab 
